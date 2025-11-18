@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkprac=self.webpackChunkprac||[]).push([[797],{797:(r,a,c)=>{c.r(a),c.d(a,{default:()=>s});var e=c(848),n=c(142);const s=function(){var r=(0,n.B)("main").t;return(0,e.jsx)("div",{children:r("Главная страница")})}}}]);
